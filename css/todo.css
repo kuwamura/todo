@@ -1,0 +1,36 @@
+.left-column {
+    float: left;
+}
+
+.right-column {
+    float: right;
+}
+
+.read-only {
+    background-color: #F0F0F0;
+    border: 0;
+}
+
+table.table-bordered {
+    width: 90%;
+    border-collapse: collapse;
+}
+
+th.start-line {
+    padding: 3px;
+    text-align: center;
+    color: #3366CC;
+    fornt-weight: bold;
+    border-bottom: 4px solid #3366CC;
+}
+
+td.dash-line {
+    padding: 3px;
+    text-align: left;
+    border-bottom: 1px dashed #AAAAAA;
+}
+
+td.last-line {
+    border-top: 3px solid #3366CC;
+    border-bottom: 0px;
+}
